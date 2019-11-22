@@ -2,4 +2,9 @@
 
 clone the code
 
-From the directory type python3 
+cd to number-search
+
+type the command python3 search.py
+
+follow directions
+
