@@ -1,5 +1,5 @@
-# Phone-Number-Search
+# number search
 
-Download the code
+clone the code
 
 From the directory type python3 
